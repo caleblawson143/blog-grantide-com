@@ -14,7 +14,11 @@
     }
   },
   "theme": {
-    "colors": {}
+    "colors": {
+      "primary": "#197615",
+      "secondary": "#FFF",
+      "tertiary": "#000000"
+    }
   },
   "seo": {}
 }

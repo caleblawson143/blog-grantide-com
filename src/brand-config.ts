@@ -5,11 +5,12 @@ import type { BrandConfig } from "@caleblawson/blog-shell";
 export const brandConfig: BrandConfig = {
   site: {
     siteName: "Grantide",
-    logoUrl: "/next.svg",
+    logoUrl: "/grantide-logo.png",
     heroTitle: "Welcome to Grantide",
     heroSubtitle: "Discover amazing content and insights",
     heroImageUrl: "/globe.svg",
-    aboutText: "We create amazing content to help you grow your business and achieve your goals.",
+    aboutText:
+      "We create amazing content to help you grow your business and achieve your goals.",
     aboutImageUrl: "/window.svg",
     contactEmail: "hello@myblog.com",
     contactPhone: "+1 (555) 123-4567",
@@ -27,6 +28,6 @@ export const brandConfig: BrandConfig = {
   seo: {
     title: "Grantide - Amazing Content and Insights",
     description: "Discover amazing content and insights",
-    keywords: ["blog","content","insights","business","growth"],
+    keywords: ["blog", "content", "insights", "business", "growth"],
   },
 };
