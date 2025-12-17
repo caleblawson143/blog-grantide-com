@@ -4,9 +4,9 @@ import type { BrandConfig } from "@caleblawson/blog-shell";
 // This is the only file that should be customized per blog
 export const brandConfig: BrandConfig = {
   site: {
-    siteName: "My Blog",
+    siteName: "Grantide",
     logoUrl: "/next.svg",
-    heroTitle: "Welcome to My Blog",
+    heroTitle: "Welcome to Grantide",
     heroSubtitle: "Discover amazing content and insights",
     heroImageUrl: "/globe.svg",
     aboutText: "We create amazing content to help you grow your business and achieve your goals.",
@@ -25,9 +25,8 @@ export const brandConfig: BrandConfig = {
     },
   },
   seo: {
-    title: "My Blog - Amazing Content and Insights",
-    description: "Discover amazing content and insights to help you grow your business and achieve your goals.",
-    keywords: ["blog", "content", "insights", "business", "growth"],
+    title: "Grantide - Amazing Content and Insights",
+    description: "Discover amazing content and insights",
+    keywords: ["blog","content","insights","business","growth"],
   },
 };
-
